@@ -9,7 +9,7 @@ Since it is an ATM Machine, Initially i declared some of the accounts and initia
 1. Deposit
 2. Withdrawal
 3. Balance Enquiry
-4. Modules
+Modules
 5. Deposit
 6. Withdrawal
 7. Balance Enquiry
