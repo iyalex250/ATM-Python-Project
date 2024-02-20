@@ -6,12 +6,12 @@ Python
 Features
 Since it is an ATM Machine, Initially i declared some of the accounts and initialized the amount to zero, And doing following operations on that account.
 
-Deposit
-Withdrawal
-Balance Enquiry
-Modules
-Deposit
-Withdrawal
-Balance Enquiry
-Statement
-Quit
+1. Deposit
+2. Withdrawal
+3. Balance Enquiry
+4. Modules
+5. Deposit
+6. Withdrawal
+7. Balance Enquiry
+8. Statement
+9. Quit
